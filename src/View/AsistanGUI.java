@@ -79,6 +79,4 @@ class SinavEklemeGUI extends JFrame {
     public SinavEklemeGUI() {
         setTitle("Sınav Ekleme");
         setSize(300, 200);
-        setDefaultCloseOperation(DISPOSE_ON_CLOSE);
-    }
-}
+        setDefaultCloseOperation(DISPOSE_ON_CLOSE);}}
